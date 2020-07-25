@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针", "指针\指针.vcxproj", "{488A1C60-7252-485A-AAA3-2C24EACDB8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488A1C60-7252-485A-AAA3-2C24EACDB8FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{488A1C60-7252-485A-AAA3-2C24EACDB8FA}.Debug|Win32.Build.0 = Debug|Win32
+		{488A1C60-7252-485A-AAA3-2C24EACDB8FA}.Release|Win32.ActiveCfg = Release|Win32
+		{488A1C60-7252-485A-AAA3-2C24EACDB8FA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
